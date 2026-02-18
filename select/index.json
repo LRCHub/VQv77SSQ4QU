@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "10時の方角",
+  "base_artist": "sumika",
+  "createdAt": "2026-02-18T06:07:08.641683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "10時の方角",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/01_10時の方角_sumika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10時の方角",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/02_10時の方角_sumika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10時の方角 - Juji No Hougaku",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/03_10時の方角_-_Juji_No_Hougaku_sumika.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10時の方角",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/04_10時の方角_sumika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "10時の方角",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_10時の方角_sumika.txt"
+    }
+  ]
+}
